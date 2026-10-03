@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi there, I'm <span style="color:#EF93C4;">@fanitarants</span> 👋
+  Hi there, I'm <span style="color:#EF93C4;">@fanitarantsopoulou</span> 👋
 </h1>
 
 <p align="center">
