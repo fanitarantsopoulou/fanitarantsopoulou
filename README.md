@@ -22,7 +22,9 @@
 <p align="center">
 🔬 R&D Software Automation Engineer at Nokia<br/>
 🤖 AI & ML Enthusiast<br/>
-🎓 Computer Science Graduate
+🎓 Computer Science Graduate<br/>
+🧠 Building AI & Machine Learning projects<br/>
+📡 Thesis: 5G Network Slicing with LSTM-based traffic prediction, using Wi-Fi traffic as a proxy
 </p>
 
 
