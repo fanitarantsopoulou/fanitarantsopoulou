@@ -19,22 +19,22 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="62%" valign="middle">
 
-- 🔬 R&D Software Automation Engineer at Nokia
-- 🤖 AI & ML Enthusiast
-- 🎓 Computer Science Graduate
-- 🧠 Building AI & Machine Learning projects
-- 📡 Thesis: 5G Network Slicing with LSTM-based traffic prediction, using Wi-Fi traffic as a proxy
+<h3>🔬 R&D Software Automation Engineer at Nokia</h3>
+<h3>🤖 AI & ML Enthusiast</h3>
+<h3>🎓 Computer Science Graduate (BSc Department of Digital Systems, University of Thessaly)</h3>
+<h3>🧠 Building AI & Machine Learning projects</h3>
+<h3>📡 Thesis: 5G Network Slicing with LSTM-based traffic prediction, using Wi-Fi traffic as a proxy</h3>
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/649d36ab-f419-4199-a042-050853698d26" width="160" alt="Fani" />
+<img src="https://github.com/user-attachments/assets/649d36ab-f419-4199-a042-050853698d26" width="260" alt="Fani" />
 
 </td>
 
