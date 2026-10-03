@@ -26,7 +26,7 @@
 🧠 Building AI & Machine Learning projects<br/>
 📡 Thesis: 5G Network Slicing with LSTM-based traffic prediction, using Wi-Fi traffic as a proxy
 </p>
-
+<img width="741" height="1024" alt="image" src="https://github.com/user-attachments/assets/649d36ab-f419-4199-a042-050853698d26" />
 
 <h2 align="center">💻 Tech Stack</h2>
 
